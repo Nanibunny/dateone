@@ -11,7 +11,7 @@ header{
     margin-top: 75px;
     width: 100vw;
     height: 91vh;
-    background-image: url('/images/background-3.jpg');
+    background-image: url('images/background-3.jpg');
     background-position: center;
     background-size: cover;
     display: flex;
@@ -86,7 +86,7 @@ event{
 
 .event {
     position: relative;
-    background-image: url('/images/background-7.jpg'); 
+    background-image: url('images/background-7.jpg'); 
     background-size: cover;
     background-position: center;
     height: 91vh;
@@ -98,7 +98,7 @@ event{
 
 .buzz {
     position: relative;
-    background-image: url('/images/background-2.jpg'); 
+    background-image: url('images/background-2.jpg'); 
     background-size: cover;
     background-position: center;
     height: 91vh;
@@ -124,7 +124,7 @@ event{
 
 /* Custom styles for the About Page */
 .about .container-fluid {
-    background-image: url('/images/about-header-bg.jpg');
+    background-image: url('images/about-header-bg.jpg');
     background-size: cover;
     background-position: center;
     padding: 100px 0;
@@ -153,7 +153,7 @@ event{
 
 .about {
     position: relative;
-    background-image: url('/images/background-8.jpg'); 
+    background-image: url('images/background-8.jpg'); 
     background-size: cover;
     background-position: center;
     height: 91vh;
